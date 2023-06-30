@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6c867c091dc1e374591e2717db014137
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vagabond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29d8fe8c490163b4da77e57e114a9d9c, type: 3}
+  - {fileID: 12800000, guid: 70f5702bab412de4c9a9dc091f98c162, type: 3}
+  - {fileID: 12800000, guid: 9462ac0fd65711d4591ccb7295fecac9, type: 3}
+  - {fileID: 12800000, guid: 354887b59247d9c4793ec712fb338ce2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
