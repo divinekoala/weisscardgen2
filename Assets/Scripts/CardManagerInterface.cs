@@ -34,6 +34,11 @@ namespace DefaultNamespace
             cardManager().chooseLevel3();
         }
         
+        public void level4()
+        {
+            cardManager().chooseLevel4();
+        }
+        
         public void cost0()
         {
             cardManager().chooseCost0();
@@ -136,6 +141,11 @@ namespace DefaultNamespace
         public void colourYellow()
         {
             cardManager().chooseYellow();
+        }
+
+        public void colourBlack()
+        {
+            cardManager().chooseBlack();
         }
         
         public void typeCharacter()

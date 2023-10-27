@@ -1,10 +1,7 @@
-using System;
 using DefaultNamespace;
 using TMPro;
 using UnityEngine;
-using UnityEngine.AI;
 using UnityEngine.UI;
-using Random = UnityEngine.Random;
 
 public class CardManager : MonoBehaviour
 {
@@ -123,6 +120,13 @@ public class CardManager : MonoBehaviour
     public void chooseLevel3()
     {
         cardValue.level = 3;
+        setLevelImage();
+        closeLevelPanel();
+    }
+    
+    public void chooseLevel4()
+    {
+        cardValue.level = 4;
         setLevelImage();
         closeLevelPanel();
     }
@@ -473,6 +477,7 @@ public class CardManager : MonoBehaviour
     public void setTrait1Text()
     {
         cardValue.trait1 = trait1Text.text;
+        setTraitCount();
     }
     
     public TMP_InputField trait2Text;
@@ -480,6 +485,24 @@ public class CardManager : MonoBehaviour
     public void setTrait2Text()
     {
         cardValue.trait2 = trait2Text.text;
+        setTraitCount();
+    }
+
+    private void setTraitCount()
+    {
+        if (cardValue.trait1.Length > 0)
+        {
+            cardValue.traitCount = 2;
+            return;
+        }
+
+        if (cardValue.trait2.Length > 0)
+        {
+            cardValue.traitCount = 1;
+            return;
+        }
+
+        cardValue.traitCount = 0;
     }
     
     public TMP_InputField copyrightText;
@@ -506,6 +529,8 @@ public class CardManager : MonoBehaviour
     private void setCardBase()
     {
         string basePath = "";
+
+        setTraitCount();
 
         switch (cardValue.cardType)
         {
@@ -755,6 +780,15 @@ public class CardManager : MonoBehaviour
     public void chooseYellow()
     {
         cardValue.colour = Colour.YELLOW;
+        setCardBase();
+        setLevelImage();
+        colourPanel.SetActive(false);
+        GameManager.instance.udpateCardElement();
+    }
+    
+    public void chooseBlack()
+    {
+        cardValue.colour = Colour.BLACK;
         setCardBase();
         setLevelImage();
         colourPanel.SetActive(false);

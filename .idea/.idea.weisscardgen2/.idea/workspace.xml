@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19c5966a-0325-4a2e-a9d4-82cb70c091c7" name="Changes" comment="more stuff">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Bars/bblbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Bars/bblbar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Bars/blbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Bars/blbar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl0s1t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl0s1t.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl1s1t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl1s1t.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl2s1t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Card Bases/Character/Weiss/bl2s1t.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/gl4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/gl4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/rl4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/rl4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/yl4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/yl4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sprites/TextImages.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sprites/TextImages.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sprites/TextImages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sprites/TextImages.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/VagabondCondensedItalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/VagabondCondensedItalic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/agfa rotis semi serif SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/agfa rotis semi serif SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibri_0 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibri_0 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibrib_0 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibrib_0 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibrii_0 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibrii_0 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibriz_0 SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/calibriz_0 SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/futura bk bt SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/futura bk bt SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bolditalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bolditalic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabolditalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabolditalic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-italic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-italic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-light SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-light SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-lightitalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-lightitalic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-semibold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-semibold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-semibolditalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-semibolditalic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/plant chero std SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/plant chero std SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/souvenir lt SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/souvenir lt SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond-bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond-bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond-regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond-regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond_bold_italic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond_bold_italic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond_italic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/vagabond_italic SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Level/bl3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/TextImages.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/TextImages.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/TextImages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/TextImages.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManagerInterface.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManagerInterface.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/enums/Colour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/enums/Colour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Game Dev/weisscardgen2/Assets/Resources/Components/Fonts/agfa rotis semi serif SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Game Dev/weisscardgen2/Assets/Resources/Components/Fonts/calibrib_0 SDF.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Game Dev/weisscardgen2/Assets/Scripts/CardManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Game Dev/weisscardgen2/Assets/Scripts/CardManagerInterface.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Game Dev/weisscardgen2/Assets/Scripts/enums/Colour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_InputField.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2S4WZTFyWi4y06EuR9bJ60WOTMM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\divin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\divin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\divin\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Documents/weisscardgen2Builds\Weiss Schwarz Card Generator.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\divin\Documents\weisscardgen2Builds" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.7f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;E:\Game Dev\weisscardgen2&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Game Dev\weisscardgen2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.7f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;E:\Game Dev\weisscardgen2&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\Game Dev\weisscardgen2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19c5966a-0325-4a2e-a9d4-82cb70c091c7" name="Changes" comment="" />
+      <created>1688406391586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688406391586</updated>
+      <workItem from="1688406399054" duration="729000" />
+      <workItem from="1698273798677" duration="463000" />
+      <workItem from="1698357639329" duration="193000" />
+      <workItem from="1698412426614" duration="1866000" />
+      <workItem from="1698417388545" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="more stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="more stuff" />
+  </component>
+</project>

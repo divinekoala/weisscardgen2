@@ -6,5 +6,6 @@
         public const string GREEN = "g";
         public const string YELLOW = "y";
         public const string BLUE = "b";
+        public const string BLACK = "bl";
     }
 }
