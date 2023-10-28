@@ -878,4 +878,38 @@ public class CardManager : MonoBehaviour
         cardSetTransform.localRotation = Quaternion.Euler(0,0,0);
         cardSetTransform.localScale = Vector3.one;
     }
+
+    public void fixUpTextSprites()
+    {
+        cardValue.effect = cardValue.effect.Replace("[AUTO]", "<sprite name=Auto>");
+        cardValue.effect = cardValue.effect.Replace("[CONT]", "<sprite name=Cont>");
+        cardValue.effect = cardValue.effect.Replace("[ACT]", "<sprite name=Act>");
+        cardValue.effect = cardValue.effect.Replace("(1)", "<sprite name=One>");
+        cardValue.effect = cardValue.effect.Replace("(2)", "<sprite name=Two>");
+        cardValue.effect = cardValue.effect.Replace("(3)", "<sprite name=Three>");
+        cardValue.effect = cardValue.effect.Replace("(4)", "<sprite name=Four>");
+        cardValue.effect = cardValue.effect.Replace("(5)", "<sprite name=Five>");
+        cardValue.effect = cardValue.effect.Replace("(6)", "<sprite name=Six>");
+        cardValue.effect = cardValue.effect.Replace("REST", "<sprite name=Rest>");
+        cardValue.effect = cardValue.effect.Replace("REVERSE", "<sprite name=Reverse>");
+        cardValue.effect = cardValue.effect.Replace("STAND", "<sprite name=Stand>");
+        cardValue.effect = cardValue.effect.Replace("Cxc", "<sprite name=Cxc>");
+        cardValue.effect = cardValue.effect.Replace("(1)", "<sprite name=One>");
+        cardValue.effect = cardValue.effect.Replace("Backup", "<sprite name=Backup>");
+        cardValue.effect = cardValue.effect.Replace("Link", "<sprite name=Link>");
+        cardValue.effect = cardValue.effect.Replace("Fire", "<sprite name=Fire>");
+        cardValue.effect = cardValue.effect.Replace("Shot", "<sprite name=Shot>");
+        cardValue.effect = cardValue.effect.Replace("Door", "<sprite name=Door>");
+        cardValue.effect = cardValue.effect.Replace("Bounce", "<sprite name=Bounce>");
+        cardValue.effect = cardValue.effect.Replace("Gate", "<sprite name=Gate>");
+        cardValue.effect = cardValue.effect.Replace("Soul Trigger", "<sprite name=Soul>");
+        cardValue.effect = cardValue.effect.Replace("Standby", "<sprite name=Standby>");
+        cardValue.effect = cardValue.effect.Replace("Replay", "<sprite name=Replay>");
+        cardValue.effect = cardValue.effect.Replace("Bag", "<sprite name=Bag>");
+        cardValue.effect = cardValue.effect.Replace("Bar", "<sprite name=Bar>");
+        cardValue.effect = cardValue.effect.Replace("Alert", "<sprite name=Alert>");
+        cardValue.effect = cardValue.effect.Replace("LTrait", "<sprite name=L_Trait>");
+        cardValue.effect = cardValue.effect.Replace("RTrait", "<sprite name=R_Trait>");
+        effectText.text = cardValue.effect;
+    }
 }

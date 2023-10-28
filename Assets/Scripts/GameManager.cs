@@ -178,6 +178,11 @@ public class GameManager : MonoBehaviour
         }
         viewCard(current);
     }
+
+    public void exportCurrentCard()
+    {
+        StartCoroutine(exportCard());
+    }
     
 
     private WaitForEndOfFrame eof = new WaitForEndOfFrame();

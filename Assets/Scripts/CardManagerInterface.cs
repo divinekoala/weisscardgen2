@@ -297,5 +297,10 @@ namespace DefaultNamespace
         {
             cardManager().resetSetImage();
         }
+
+        public void fixUpTextSprites()
+        {
+            cardManager().fixUpTextSprites();
+        }
     }
 }
