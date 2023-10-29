@@ -794,6 +794,15 @@ public class CardManager : MonoBehaviour
         colourPanel.SetActive(false);
         GameManager.instance.udpateCardElement();
     }
+    
+    public void chooseWhite()
+    {
+        cardValue.colour = Colour.WHITE;
+        setCardBase();
+        setLevelImage();
+        colourPanel.SetActive(false);
+        GameManager.instance.udpateCardElement();
+    }
 
     #endregion
 
@@ -890,6 +899,7 @@ public class CardManager : MonoBehaviour
         cardValue.effect = cardValue.effect.Replace("(4)", "<sprite name=Four>");
         cardValue.effect = cardValue.effect.Replace("(5)", "<sprite name=Five>");
         cardValue.effect = cardValue.effect.Replace("(6)", "<sprite name=Six>");
+        cardValue.effect = cardValue.effect.Replace("(9)", "<sprite name=Nine>");
         cardValue.effect = cardValue.effect.Replace("REST", "<sprite name=Rest>");
         cardValue.effect = cardValue.effect.Replace("REVERSE", "<sprite name=Reverse>");
         cardValue.effect = cardValue.effect.Replace("STAND", "<sprite name=Stand>");

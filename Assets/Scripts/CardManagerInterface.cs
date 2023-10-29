@@ -148,6 +148,11 @@ namespace DefaultNamespace
             cardManager().chooseBlack();
         }
         
+        public void colourWhite()
+        {
+            cardManager().chooseWhite();
+        }
+        
         public void typeCharacter()
         {
             cardManager().chooseCharacter();

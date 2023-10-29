@@ -752,6 +752,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Nine
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 619
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749419416de794645b2f317d615e95a1
+      internalID: 2104108986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -781,6 +802,7 @@ TextureImporter:
       Gate: -2002848860
       L_Trait: 285249976
       Link: -1721850438
+      Nine: 2104108986
       One: -1449796835
       R_Trait: -2035205890
       Replay: 1664369710

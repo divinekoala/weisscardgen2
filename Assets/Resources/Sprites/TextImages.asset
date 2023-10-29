@@ -261,6 +261,12 @@ MonoBehaviour:
     m_Scale: 1
     m_Name: Link
     m_HashCode: 2687968
+  - m_ElementType: 2
+    m_Unicode: 65534
+    m_GlyphIndex: 30
+    m_Scale: 1
+    m_Name: Nine
+    m_HashCode: 2898988
   m_SpriteGlyphTable:
   - m_Index: 0
     m_Metrics:
@@ -270,8 +276,8 @@ MonoBehaviour:
       m_HorizontalBearingY: 232
       m_HorizontalAdvance: 1165
     m_GlyphRect:
-      m_X: 0
-      m_Y: 682
+      m_X: 15
+      m_Y: 687
       m_Width: 1165
       m_Height: 300
     m_Scale: 1
@@ -742,5 +748,21 @@ MonoBehaviour:
     m_AtlasIndex: 0
     m_ClassDefinitionType: 0
     sprite: {fileID: -1721850438, guid: f8e27bc033fff434ead7fe80d584a1e6, type: 3}
+  - m_Index: 30
+    m_Metrics:
+      m_Width: 14
+      m_Height: 14
+      m_HorizontalBearingX: 0.44
+      m_HorizontalBearingY: 11.88
+      m_HorizontalAdvance: 14
+    m_GlyphRect:
+      m_X: 98
+      m_Y: 619
+      m_Width: 14
+      m_Height: 14
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+    sprite: {fileID: 2104108986, guid: f8e27bc033fff434ead7fe80d584a1e6, type: 3}
   spriteInfoList: []
   fallbackSpriteAssets: []
