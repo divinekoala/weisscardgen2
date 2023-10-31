@@ -43,9 +43,9 @@ public class GameManager : MonoBehaviour
     private CardValue defaultCard = new CardValue()
     {
         level = 3,
-        colour = "y",
+        colour = Colour.YELLOW,
         cost = 1,
-        setColour = SetColour.BOTH,
+        setColour = SetColour.WEISS,
         trait1 = "wubbaboo",
         trait2 = "weeewoooo",
         traitCount = 2,
@@ -61,7 +61,7 @@ public class GameManager : MonoBehaviour
         soul = 2,
         showEffect = true,
         showFlavour = true,
-        showJpName = false,
+        showJpName = true,
         imagePosition = Vector3.zero,
         imageRotation = 0,
         imageScale = 1,

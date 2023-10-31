@@ -23,19 +23,32 @@ public class CardElement : MonoBehaviour
     {
         _cardValue = value;
         cardText.text = value.level + "/" + value.cost + " - " + value.name;
+        Color cardImageColour;
         switch (value.colour)
         {
             case Colour.RED:
-                cardColour.color = Color.red;
+                ColorUtility.TryParseHtmlString("#e74c3c", out cardImageColour);
+                cardColour.color = cardImageColour ;
                 break;
             case Colour.YELLOW:
-                cardColour.color = Color.yellow;
+                ColorUtility.TryParseHtmlString("#f1c40f", out cardImageColour);
+                cardColour.color = cardImageColour ;
                 break;
             case Colour.GREEN:
-                cardColour.color = Color.green;
+                ColorUtility.TryParseHtmlString("#2ecc71", out cardImageColour);
+                cardColour.color = cardImageColour ;
                 break;
             case Colour.BLUE:
-                cardColour.color = Color.blue;
+                ColorUtility.TryParseHtmlString("#2980b9", out cardImageColour);
+                cardColour.color = cardImageColour ;
+                break;
+            case Colour.BLACK:
+                ColorUtility.TryParseHtmlString("#2c3e50", out cardImageColour);
+                cardColour.color = cardImageColour ;
+                break;
+            case Colour.WHITE:
+                ColorUtility.TryParseHtmlString("#ecf0f1", out cardImageColour);
+                cardColour.color = cardImageColour ;
                 break;
         }
     }

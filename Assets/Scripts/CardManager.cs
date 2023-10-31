@@ -492,17 +492,26 @@ public class CardManager : MonoBehaviour
     {
         if (cardValue.trait1.Length > 0)
         {
+            var prevNum = cardValue.traitCount;
             cardValue.traitCount = 2;
+            if(prevNum != cardValue.traitCount)
+                setCardBase();
             return;
         }
 
         if (cardValue.trait2.Length > 0)
         {
+            var prevNum = cardValue.traitCount;
             cardValue.traitCount = 1;
+            if(prevNum != cardValue.traitCount)
+                setCardBase();
             return;
         }
 
+        var prevNum1 = cardValue.traitCount;
         cardValue.traitCount = 0;
+        if(prevNum1 != cardValue.traitCount)
+            setCardBase();
     }
     
     public TMP_InputField copyrightText;
@@ -530,8 +539,6 @@ public class CardManager : MonoBehaviour
     {
         string basePath = "";
 
-        setTraitCount();
-
         switch (cardValue.cardType)
         {
             case CardType.CHARACTER:
@@ -547,6 +554,7 @@ public class CardManager : MonoBehaviour
                 basePath = components + cardBases + climaxes + cardValue.setColour + "/" + cardValue.colour;
                 break;
         }
+        
         cardBase.sprite = Resources.Load<Sprite>(basePath);
 
         var jpNamePath = components + jpName + cardValue.colour;
