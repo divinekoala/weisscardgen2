@@ -4,31 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c5966a-0325-4a2e-a9d4-82cb70c091c7" name="Changes" comment="more stuff">
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/JP Name/w.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Components/JP Name/w.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/UI/OpeningPanel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/UI/OpeningPanel.png.meta" afterDir="false" />
+    <list default="true" id="19c5966a-0325-4a2e-a9d4-82cb70c091c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/UI/Arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/UI/Arrow.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.weisscardgen2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.weisscardgen2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Card Element.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Card Element.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/VagabondCondensedItalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/VagabondCondensedItalic SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-bold SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabold SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabolditalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/opensans-extrabolditalic SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/plant chero std SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/plant chero std SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/souvenir lt SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/Fonts/souvenir lt SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Components/NotoSansJP-Regular SDF 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Components/NotoSansJP-Regular SDF 1.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardElement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardElement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CardManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Renderer2D.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Renderer2D.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +121,9 @@
       <workItem from="1698428169722" duration="3136000" />
       <workItem from="1698484132276" duration="4275000" />
       <workItem from="1698531141844" duration="2019000" />
-      <workItem from="1698785798792" duration="7104000" />
+      <workItem from="1698785798792" duration="7346000" />
+      <workItem from="1698951989340" duration="1024000" />
+      <workItem from="1699902919542" duration="892000" />
     </task>
     <servers />
   </component>

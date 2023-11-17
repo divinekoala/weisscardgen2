@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using DefaultNamespace;
 using SimpleFileBrowser;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -28,6 +29,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject newLoadPanel;
     private string cardFolder;
+    
+    public GameObject saveText;
 
     public void Awake()
     {
@@ -304,6 +307,16 @@ public class GameManager : MonoBehaviour
         var jsonCards = ToJson(cardLoader);
         Debug.Log("Saving: " + jsonCards);
         File.WriteAllText(cardFolder + "/" + SAVE + ".json", jsonCards);
+        saveText.SetActive(true);
+        StartCoroutine(fadeOutText());
+    }
+
+    private WaitForSeconds fadeOutTimer = new WaitForSeconds(5);
+
+    public IEnumerator fadeOutText()
+    {
+        yield return fadeOutTimer;
+        saveText.SetActive(false);
     }
     
     private static string ToJson(object value)
@@ -314,5 +327,17 @@ public class GameManager : MonoBehaviour
     private static T FromJson<T>(string json)
     {
         return JsonUtility.FromJson<T>(json);
+    }
+
+    public GameObject helpPanel;
+
+    public void openHelp()
+    {
+        helpPanel.SetActive(true);
+    }
+
+    public void closeHelp()
+    {
+        helpPanel.SetActive(false);
     }
 }
